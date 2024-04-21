@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,TSAL4400,LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm,141.224,-82.804,-130.0,top
+D2,TSAL4400,LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm,157.48,-81.28,180.0,top
+D3,TSAL4400,LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm,169.164,-84.074,130.0,top
+J1,Conn_02x14_Odd_Even,PinHeader_2x14_P2.54mm_Vertical,153.416,-98.806,-90.0,top
+PD1,SFH213 FA,XDCR_SFH_213_FA,138.176,-89.662,-140.0,top
+PD2,SFH213 FA,XDCR_SFH_213_FA,150.728911,-85.09,0.0,top
+PD3,SFH213 FA,XDCR_SFH_213_FA,171.649083,-90.353,150.0,top
+Q1,MMBT2222A ,TO-92_Inline,132.334,-98.806,90.0,top
+Q2,MMBT2222A ,TO-92_Inline,157.226,-92.858,0.0,top
+Q3,MMBT2222A ,TO-92_Inline,174.498,-98.806,-90.0,top
+R1,100 ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,128.778,-99.806,90.0,top
+R2,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,145.288,-89.916,180.0,top
+R3,220k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,131.318,-90.932,180.0,top
+R4,1.8k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,127.508,-93.98,180.0,top
+R5,100 ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,162.306,-90.17,0.0,top
+R6,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,153.924,-89.154,180.0,top
+R7,220k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,145.034,-94.488,0.0,top
+R8,1.8k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,153.162,-93.726,90.0,top
+R9,100 ,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,179.324,-99.822,90.0,top
+R10,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,162.052,-93.472,0.0,top
+R11,220k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,178.308,-92.456,0.0,top
+R12,1.8k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,169.164,-94.488,180.0,top
